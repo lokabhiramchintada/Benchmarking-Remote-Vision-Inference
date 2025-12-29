@@ -1,0 +1,4 @@
+Image,Description,Upload (ms),Inference (ms),Download (ms),Total (ms),Num Detections
+test1.jpg,Low detections,55.79,59.74,55.79,171.32,22
+test2.jpg,High detections,73.76,45.48,73.76,193.0,122
+test3.jpg,Zero detections,47.17,39.67,47.17,134.0,3
